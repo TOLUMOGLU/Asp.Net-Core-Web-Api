@@ -1,0 +1,15 @@
+# .vs klasörünü görmezden gel
+.vs/
+# Bin ve obj klasörleri
+bin/
+obj/
+# Visual Studio kod indeksleme dosyaları
+*.vsix
+# Derleme çıktıları
+*.dll
+*.exe
+*.pdb
+*.log
+# Geçici dosyalar
+*.bak
+*.swp
