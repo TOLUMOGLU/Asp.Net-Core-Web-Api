@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\webapi\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\webapi\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7482FFC-DC3F-4DF1-81AE-ACA2E8C8B5C3}|Presentation\\Presentation.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\presentation\\assemblyrefence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7482FFC-DC3F-4DF1-81AE-ACA2E8C8B5C3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyrefence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7482FFC-DC3F-4DF1-81AE-ACA2E8C8B5C3}|Presentation\\Presentation.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7482FFC-DC3F-4DF1-81AE-ACA2E8C8B5C3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|solutionrelative:services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|solutionrelative:services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\exceptions\\notfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\exceptions\\notfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|solutionrelative:services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeDocumentMoniker": "WebApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeToolTip": "WebApi\\ContextFactory\\RepositoryContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:18:57.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyRefence.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Presentation\\AssemblyRefence.cs",
+              "RelativeDocumentMoniker": "Presentation\\AssemblyRefence.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Presentation\\AssemblyRefence.cs",
+              "RelativeToolTip": "Presentation\\AssemblyRefence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:18:22.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\Exceptions\\BookNotFoundException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\BookNotFoundException.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\Exceptions\\BookNotFoundException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\BookNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:43:21.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotFound.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\Exceptions\\NotFound.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\NotFound.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\Exceptions\\NotFound.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\NotFound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:35:47.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:53:31.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\ErrorModel\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Entities\\ErrorModel\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\ErrorModel\\ErrorDetails.cs",
+              "RelativeToolTip": "Entities\\ErrorModel\\ErrorDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:49:19.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:39:20.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeToolTip": "Services\\Contracts\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:38:48.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\BookManager.cs",
+              "RelativeDocumentMoniker": "Services\\BookManager.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\BookManager.cs",
+              "RelativeToolTip": "Services\\BookManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvz0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:33:51.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\Contracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\Contracts\\IBookService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:33:39.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADgv04AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:31:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:27:23.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:25:51.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
