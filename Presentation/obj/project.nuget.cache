@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EXdI/UHl0Fk=",
+  "dgSpecHash": "E8EaqU0m5kA=",
   "success": true,
   "projectFilePath": "C:\\Users\\AzimeTolumoğlu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\9.0.5\\microsoft.aspnetcore.jsonpatch.9.0.5.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.3.0\\microsoft.aspnetcore.mvc.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.3.0\\microsoft.aspnetcore.mvc.core.2.3.0.nupkg.sha512",
+    "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.16\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.16.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.3.0\\microsoft.aspnetcore.responsecaching.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.3.0\\microsoft.aspnetcore.routing.2.3.0.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.3.0\\microsoft.aspnetcore.routing.abstractions.2.3.0.nupkg.sha512",
@@ -46,6 +47,7 @@
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\nlog\\5.4.0\\nlog.5.4.0.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\nlog.extensions.logging\\5.4.0\\nlog.extensions.logging.5.4.0.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
