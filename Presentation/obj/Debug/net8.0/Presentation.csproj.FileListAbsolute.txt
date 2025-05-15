@@ -17,3 +17,4 @@ C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsSto
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Presentation\obj\Debug\net8.0\Presentation.pdb
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json

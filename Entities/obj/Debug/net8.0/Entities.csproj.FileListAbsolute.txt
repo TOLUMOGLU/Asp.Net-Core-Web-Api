@@ -9,3 +9,4 @@ C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsSto
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Entities\obj\Debug\net8.0\Entities.sourcelink.json

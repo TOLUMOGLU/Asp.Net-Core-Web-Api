@@ -188,3 +188,6 @@ C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsSto
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\WebApi\bin\Debug\net8.0\nlog.config
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\WebApi\bin\Debug\net8.0\NLog.dll
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\WebApi\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json

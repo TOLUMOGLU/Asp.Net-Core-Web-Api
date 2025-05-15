@@ -18,6 +18,4 @@ namespace Entities.DataTransferObjects
         //public decimal Price { get; init; } bu yapı zor geliyorsa aşağıdaki gibi
 
         public record BookDtoForUpdate(int Id, String Title, decimal Price);
-
-    
 }

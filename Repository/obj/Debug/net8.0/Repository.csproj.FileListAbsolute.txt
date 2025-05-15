@@ -13,3 +13,4 @@ C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsSto
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Repository\obj\Debug\net8.0\refint\Repository.dll
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Repository\obj\Debug\net8.0\Repository.pdb
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Repository\obj\Debug\net8.0\Repository.sourcelink.json

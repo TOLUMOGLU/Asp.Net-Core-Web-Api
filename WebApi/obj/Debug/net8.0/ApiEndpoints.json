@@ -55,8 +55,8 @@
         "IsRequired": true
       },
       {
-        "Name": "book",
-        "Type": "Entities.Models.Book",
+        "Name": "bookDto",
+        "Type": "Entities.DataTransferObjects.BookDtoForUpdate",
         "IsRequired": true
       }
     ],
@@ -64,7 +64,7 @@
   },
   {
     "ContainingType": "Presentation.Controllers.BooksController",
-    "Method": "DeleteOneBooks",
+    "Method": "DeleteOneBook",
     "RelativePath": "api/books/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
