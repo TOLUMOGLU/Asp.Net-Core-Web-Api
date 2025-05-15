@@ -20,9 +20,9 @@ namespace Repository.EFCore
 
         public IBookRepository Book => _bookRepository.Value; //lazy looading : istenildiğinde gelecek
 
-        public void Save()
+        public async Task SaveAsync()
         {
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
         }
     }
 }
