@@ -2225,6 +2225,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.JsonPatch": "9.0.5",
           "Microsoft.AspNetCore.Mvc.Core": "2.3.0",
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.16",
           "Services": "1.0.0"
         },
         "compile": {

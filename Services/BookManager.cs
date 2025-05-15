@@ -9,6 +9,7 @@ using Entities.Exceptions;
 using Entities.Models;
 using Repository.Contracts;
 using Services.Contracts;
+using static System.Reflection.Metadata.BlobBuilder;
 
 namespace Services
 {
@@ -25,11 +26,12 @@ namespace Services
             _mapper = mapper;
         }
 
-        public Book CreateOneBook(Book book)
+        public BookDto CreateOneBook(BookDtoForInsertion bookDto)
         {
-            _manager.Book.CreateOneBook(book);
+            var entity = _mapper.Map<Book>(bookDto);
+            _manager.Book.CreateOneBook(entity);
             _manager.Save();
-            return book;
+            return _mapper.Map<BookDto>(entity);
         }
 
         public IEnumerable<BookDto> GetAllBook(bool trackChanges)
@@ -53,14 +55,14 @@ namespace Services
             _manager.Save();
         }
 
-        public Book GetOneBook(int id, bool trackChanges)
+        public BookDto GetOneBook(int id, bool trackChanges)
         {
             var book = _manager.Book.GetOneBook(id,trackChanges);
             if(book is null)
             {
                 throw new BookNotFoundException(id);
             }
-            return book;
+            return _mapper.Map<BookDto>(book); //bookDto veri dönmesini sağladık
         }
 
         public void UpdateOneBook(int id, BookDtoForUpdate bookDto, bool trackChanges)
@@ -81,6 +83,21 @@ namespace Services
             entity = _mapper.Map<Book>(bookDto);  //varlığı mapper ile kaydettik
 
             _manager.Book.Update(entity);
+            _manager.Save();
+        }
+
+        public (BookDtoForUpdate bookDtoForUpdate, Book book) GetOneBookForPatch(int id, bool trackChanges)
+        {
+            var book = _manager.Book.GetOneBook(id, trackChanges);
+            if(book is null)
+                throw new BookNotFoundException(id);
+            var bookDtoForUpdate = _mapper.Map<BookDtoForUpdate>(book);
+            return (bookDtoForUpdate, book);
+        }
+
+        public void SaveChangesForPatch(BookDtoForUpdate bookDtoForUpdate, Book book)
+        {
+            _mapper.Map(bookDtoForUpdate, book);
             _manager.Save();
         }
     }

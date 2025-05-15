@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NLog;
 using Repository.EFCore;
@@ -18,6 +19,11 @@ builder.Services.AddControllers(config =>
     .AddCustomCsvFormatter()//csv format?nda ç?kt? veren custom 
     .AddXmlDataContractSerializerFormatters() //art?k xml format?nda da istek dönebilir.
     .AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly).AddNewtonsoftJson(); //PresentationLayer eklendi.
+
+builder.Services.Configure<ApiBehaviorOptions>(options =>
+{
+    options.SuppressModelStateInvalidFilter = true;
+});
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

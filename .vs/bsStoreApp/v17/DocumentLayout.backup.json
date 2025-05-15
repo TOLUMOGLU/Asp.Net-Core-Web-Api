@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\webapi\\extensions\\imvcextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\imvcextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7482FFC-DC3F-4DF1-81AE-ACA2E8C8B5C3}|Presentation\\Presentation.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7482FFC-DC3F-4DF1-81AE-ACA2E8C8B5C3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\webapi\\utilities\\formatters\\csvoutputformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\utilities\\formatters\\csvoutputformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\datatransferobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|solutionrelative:services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|solutionrelative:services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\datatransferobjects\\bookdtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\datatransferobjects\\bookdtoforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +27,24 @@
       "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A6740F-DD57-4BCA-A9B1-0A43D3878143}|Services\\Services.csproj|solutionrelative:services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\datatransferobjects\\bookdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\datatransferobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\webapi\\utilities\\formatters\\csvoutputformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\utilities\\formatters\\csvoutputformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\webapi\\extensions\\imvcextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\imvcextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19F9EDE5-D56C-42FF-807C-760F8625A530}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7482FFC-DC3F-4DF1-81AE-ACA2E8C8B5C3}|Presentation\\Presentation.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7482FFC-DC3F-4DF1-81AE-ACA2E8C8B5C3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IMvcExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Extensions\\IMvcExtensions.cs",
-              "RelativeDocumentMoniker": "WebApi\\Extensions\\IMvcExtensions.cs",
-              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Extensions\\IMvcExtensions.cs*",
-              "RelativeToolTip": "WebApi\\Extensions\\IMvcExtensions.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BookDtoForInsertion.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoForInsertion.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDtoForInsertion.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoForInsertion.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\BookDtoForInsertion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T09:04:34.11Z",
+              "WhenOpened": "2025-05-15T10:25:39.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "BookDtoForManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoForManipulation.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDtoForManipulation.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoForManipulation.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\BookDtoForManipulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:17:34.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CsvOutputFormatter.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Utilities\\Formatters\\CsvOutputFormatter.cs",
               "RelativeDocumentMoniker": "WebApi\\Utilities\\Formatters\\CsvOutputFormatter.cs",
-              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Utilities\\Formatters\\CsvOutputFormatter.cs*",
-              "RelativeToolTip": "WebApi\\Utilities\\Formatters\\CsvOutputFormatter.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Utilities\\Formatters\\CsvOutputFormatter.cs",
+              "RelativeToolTip": "WebApi\\Utilities\\Formatters\\CsvOutputFormatter.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T08:51:14.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "BookDto.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\DataTransferObjects\\BookDto.cs",
               "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDto.cs",
@@ -95,20 +116,20 @@
               "RelativeDocumentMoniker": "WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
               "RelativeToolTip": "WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T08:42:45.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "BookManager.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\BookManager.cs",
               "RelativeDocumentMoniker": "Services\\BookManager.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\BookManager.cs",
               "RelativeToolTip": "Services\\BookManager.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAUwCYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwB8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T08:40:35.116Z",
               "EditorCaption": ""
@@ -121,49 +142,60 @@
               "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\BookDtoForUpdate.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\DataTransferObjects\\BookDtoForUpdate.cs",
               "RelativeToolTip": "Entities\\DataTransferObjects\\BookDtoForUpdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T08:39:09.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\Contracts\\IBookService.cs",
               "RelativeDocumentMoniker": "Services\\Contracts\\IBookService.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\Contracts\\IBookService.cs",
               "RelativeToolTip": "Services\\Contracts\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T08:38:04.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "Presentation\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowFAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T08:36:30.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "IMvcExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Extensions\\IMvcExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\IMvcExtensions.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Extensions\\IMvcExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\IMvcExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:04:34.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:31:39.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T08:31:39.916Z"
             }
           ]
         }
