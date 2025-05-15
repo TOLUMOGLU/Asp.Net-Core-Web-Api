@@ -9,7 +9,15 @@ var builder = WebApplication.CreateBuilder(args);
 LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 
 // Add services to the container.
-builder.Services.AddControllers().AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly).AddNewtonsoftJson(); //PresentationLayer eklendi.
+builder.Services.AddControllers(config =>
+{
+    config.RespectBrowserAcceptHeader = true; //içerik pazarl??na aç?k
+    config.ReturnHttpNotAcceptable = true;  //istemci ile payla?t?k 406 kabul etmeyince verir.
+
+})
+    .AddCustomCsvFormatter()//csv format?nda ç?kt? veren custom 
+    .AddXmlDataContractSerializerFormatters() //art?k xml format?nda da istek dönebilir.
+    .AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly).AddNewtonsoftJson(); //PresentationLayer eklendi.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

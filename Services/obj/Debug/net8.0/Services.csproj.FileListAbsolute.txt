@@ -15,3 +15,4 @@ C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsSto
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\Services\obj\Debug\net8.0\Services.sourcelink.json

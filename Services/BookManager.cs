@@ -32,9 +32,10 @@ namespace Services
             return book;
         }
 
-        public IEnumerable<Book> GetAllBook(bool trackChanges)
+        public IEnumerable<BookDto> GetAllBook(bool trackChanges)
         {
-            return _manager.Book.GetAllBooks(trackChanges);
+            var books = _manager.Book.GetAllBooks(trackChanges);
+            return _mapper.Map<IEnumerable<BookDto>>(books);
         }
 
         public void DeleteOneBook(int id, bool trackChanges)
