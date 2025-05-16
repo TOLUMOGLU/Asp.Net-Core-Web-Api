@@ -90,8 +90,7 @@
               "RelativeToolTip": "Repository\\EFCore\\RepositoryManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T13:02:53.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T13:02:53.789Z"
             },
             {
               "$type": "Document",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "Repository\\Contracts\\IRepositoryManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T13:01:09.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T13:01:09.81Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "RelativeToolTip": "Repository\\Contracts\\IRepositoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T13:01:09.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T13:01:09.125Z"
             },
             {
               "$type": "Document",
@@ -129,8 +126,7 @@
               "RelativeToolTip": "Repository\\EFCore\\BookRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T12:53:29.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:53:29.852Z"
             },
             {
               "$type": "Document",
@@ -142,8 +138,7 @@
               "RelativeToolTip": "Repository\\Contracts\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T12:50:58.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:50:58.716Z"
             },
             {
               "$type": "Document",
@@ -155,8 +150,7 @@
               "RelativeToolTip": "WebApi\\Utilities\\AutoMapper\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:42:45.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T08:42:45.732Z"
             },
             {
               "$type": "Document",
@@ -164,12 +158,11 @@
               "Title": "BookManager.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\BookManager.cs",
               "RelativeDocumentMoniker": "Services\\BookManager.cs",
-              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\BookManager.cs*",
-              "RelativeToolTip": "Services\\BookManager.cs*",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\BookManager.cs",
+              "RelativeToolTip": "Services\\BookManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:40:35.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T08:40:35.116Z"
             },
             {
               "$type": "Document",
@@ -181,8 +174,7 @@
               "RelativeToolTip": "Services\\Contracts\\IBookService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:38:04.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T08:38:04.781Z"
             },
             {
               "$type": "Document",
@@ -192,7 +184,7 @@
               "RelativeDocumentMoniker": "Presentation\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Presentation\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Presentation\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAtwF0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAtwFcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T08:36:30.734Z",
               "EditorCaption": ""

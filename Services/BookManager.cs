@@ -7,6 +7,7 @@ using AutoMapper;
 using Entities.DataTransferObjects;
 using Entities.Exceptions;
 using Entities.Models;
+using NLog.LayoutRenderers;
 using Repository.Contracts;
 using Services.Contracts;
 using static System.Reflection.Metadata.BlobBuilder;
@@ -42,23 +43,25 @@ namespace Services
 
         public async Task DeleteOneBookAsync(int id, bool trackChanges)
         {
-            //check entity
-            var entity = await _manager.Book.GetOneBookByIdAsync(id, trackChanges);
-            if(entity is null)
-            {
-                //string message = $"The book with id:{id} could not found";
-                //_logger.LogInfo(message);
-                //throw new Exception(message);
-                throw new BookNotFoundException(id);
-            }
+            var entity = await GetOneBookByIdAndCheckExits(id, trackChanges);
+            ////check entity
+            //var entity = await _manager.Book.GetOneBookByIdAsync(id, trackChanges);
+            //if(entity is null)
+            //{
+            //    //string message = $"The book with id:{id} could not found";
+            //    //_logger.LogInfo(message);
+            //    //throw new Exception(message);
+            //    throw new BookNotFoundException(id);
+            //}
             _manager.Book.DeleteOneBook(entity);
             await _manager.SaveAsync();
         }
 
         public async Task<BookDto> GetOneBookByIdAsync(int id, bool trackChanges)
         {
-            var book = await _manager.Book.GetOneBookByIdAsync(id,trackChanges);
-            if(book is null)
+            //var book = await _manager.Book.GetOneBookByIdAsync(id,trackChanges);
+            var book = await GetOneBookByIdAndCheckExits(id, trackChanges);
+            if (book is null)
             {
                 throw new BookNotFoundException(id);
             }
@@ -68,15 +71,17 @@ namespace Services
         public async Task UpdateOneBookAsync(int id, BookDtoForUpdate bookDto, bool trackChanges)
         {
             //check entity
-            var entity = await _manager.Book.GetOneBookByIdAsync(id, trackChanges);
-            if (entity is null)
-            {
-                //string message = $"Book with id:{id} could not found";
-                //_logger.LogInfo(message);
-                //throw new Exception(message);
-                throw new BookNotFoundException(id);
-            }
-            //Mapping var otomatik olmalı
+            //var entity = await _manager.Book.GetOneBookByIdAsync(id, trackChanges);
+            var entity = await GetOneBookByIdAndCheckExits(id, trackChanges);
+
+            //if (entity is null)
+            //{
+            //    //string message = $"Book with id:{id} could not found";
+            //    //_logger.LogInfo(message);
+            //    //throw new Exception(message);
+            //    throw new BookNotFoundException(id);
+            //}
+            ////Mapping var otomatik olmalı
             //entity.Title = book.Title;
             //entity.Price = book.Price;
 
@@ -88,8 +93,9 @@ namespace Services
 
         public async Task<(BookDtoForUpdate bookDtoForUpdate, Book book)> GetOneBookForPatchAsync(int id, bool trackChanges)
         {
-            var book = await _manager.Book.GetOneBookByIdAsync(id, trackChanges);
-            if(book is null)
+            //var book = await _manager.Book.GetOneBookByIdAsync(id, trackChanges);
+            var book = await GetOneBookByIdAndCheckExits(id, trackChanges);
+            if (book is null)
                 throw new BookNotFoundException(id);
             var bookDtoForUpdate = _mapper.Map<BookDtoForUpdate>(book);
             return (bookDtoForUpdate, book);
@@ -99,6 +105,17 @@ namespace Services
         {
             _mapper.Map(bookDtoForUpdate, book);
             await _manager.SaveAsync();
+        }
+
+        public async Task<Book> GetOneBookByIdAndCheckExits(int id, bool trackChanges)
+        {
+            //check entity
+            var entity = await _manager.Book.GetOneBookByIdAsync(id, trackChanges);
+            if (entity is null)
+            {
+                throw new BookNotFoundException(id);
+            }
+            return entity;
         }
 
        
