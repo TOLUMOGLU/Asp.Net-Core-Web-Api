@@ -7,6 +7,7 @@ using AutoMapper;
 using Entities.DataTransferObjects;
 using Entities.Exceptions;
 using Entities.Models;
+using Entities.RequestFeatures;
 using NLog.LayoutRenderers;
 using Repository.Contracts;
 using Services.Contracts;
@@ -35,9 +36,9 @@ namespace Services
             return _mapper.Map<BookDto>(entity);
         }
 
-        public async Task<IEnumerable<BookDto>> GetAllBooksAsync(bool trackChanges)
+        public async Task<IEnumerable<BookDto>> GetAllBooksAsync(BookParameters bookParameters,bool trackChanges)
         {
-            var books = await _manager.Book.GetAllBooksAsync(trackChanges);
+            var books = await _manager.Book.GetAllBooksAsync(bookParameters,trackChanges);
             return _mapper.Map<IEnumerable<BookDto>>(books);
         }
 
