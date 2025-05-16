@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NLog;
+using Presentation.ActionFilters;
 using Repository.EFCore;
 using Services.Contracts;
 using WebApi.Extensions;
@@ -20,6 +21,8 @@ builder.Services.AddControllers(config =>
     .AddXmlDataContractSerializerFormatters() //art?k xml format?nda da istek dönebilir.
     .AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly).AddNewtonsoftJson(); //PresentationLayer eklendi.
 
+//builder.Services.AddScoped<ValidationFilterAttribute>();// IoC
+
 builder.Services.Configure<ApiBehaviorOptions>(options =>
 {
     options.SuppressModelStateInvalidFilter = true;
@@ -32,6 +35,7 @@ builder.Services.ConfigureRepositoryManager();
 builder.Services.ConfigureServiceManager();
 builder.Services.ConfigureLoggerManager();
 builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.ConfigureActionFilters();
 
 var app = builder.Build();
 
