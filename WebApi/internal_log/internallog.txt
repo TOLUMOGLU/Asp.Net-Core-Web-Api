@@ -35,3 +35,10 @@
 2025-05-15 17:22:06.5647 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
 2025-05-15 17:22:06.5848 Info Validating config: TargetNames=logfile, ConfigItems=10, FilePath=C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\WebApi\nlog.config
 2025-05-15 17:22:06.6092 Info Configuration initialized.
+2025-05-20 12:17:32.2348 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create LayoutRenderer with unknown type-alias: 'shotdate' - Verify type-alias and check extension is included.
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+2025-05-20 12:17:32.3305 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-20 12:17:32.3305 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-20 12:17:32.3506 Info Validating config: TargetNames=logfile, ConfigItems=10, FilePath=C:\Users\AzimeTolumoğlu\Desktop\Asp.NetCoreWebApi\Applications\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-05-20 12:17:32.3742 Info Configuration initialized.
