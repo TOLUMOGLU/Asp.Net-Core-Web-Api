@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NLog;
@@ -36,6 +37,7 @@ builder.Services.ConfigureServiceManager();
 builder.Services.ConfigureLoggerManager();
 builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.ConfigureActionFilters();
+builder.Services.ConfigureCors();
 
 var app = builder.Build();
 
@@ -53,6 +55,8 @@ if (app.Environment.IsProduction())
     app.UseHsts(); //Bu siteye sadece HTTPS üzerinden ba?lan. HTTP'ye izin vermez
 }
 app.UseHttpsRedirection();
+
+app.UseCors("CorsPolicy"); //herhangi headeri verbi kullanabiir izin vermi? olduk header tüketilebilir
 
 app.UseAuthorization();
 
