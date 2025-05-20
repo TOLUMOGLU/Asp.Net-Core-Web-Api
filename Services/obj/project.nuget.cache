@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "M6ijPiybM28=",
+  "dgSpecHash": "DKRH0c9NWzc=",
   "success": true,
   "projectFilePath": "C:\\Users\\AzimeTolumoğlu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\Services.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,8 @@
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.4\\microsoft.extensions.primitives.9.0.4.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\nlog\\5.4.0\\nlog.5.4.0.nupkg.sha512",
     "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\nlog.extensions.logging\\5.4.0\\nlog.extensions.logging.5.4.0.nupkg.sha512",
-    "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.4\\system.diagnostics.diagnosticsource.9.0.4.nupkg.sha512"
+    "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.4\\system.diagnostics.diagnosticsource.9.0.4.nupkg.sha512",
+    "C:\\Users\\AzimeTolumoğlu\\.nuget\\packages\\system.linq.dynamic.core\\1.6.4\\system.linq.dynamic.core.1.6.4.nupkg.sha512"
   ],
   "logs": []
 }
