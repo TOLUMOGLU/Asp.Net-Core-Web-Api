@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{BF9CF37C-B89E-4092-85C6-D93CF0AD0403}|Repository\\Repository.csproj|solutionrelative:repository\\extensions\\bookrepositoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF9CF37C-B89E-4092-85C6-D93CF0AD0403}|Repository\\Repository.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\repository\\extensions\\orderquerybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9CF37C-B89E-4092-85C6-D93CF0AD0403}|Repository\\Repository.csproj|solutionrelative:repository\\extensions\\orderquerybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF9CF37C-B89E-4092-85C6-D93CF0AD0403}|Repository\\Repository.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\repository\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9CF37C-B89E-4092-85C6-D93CF0AD0403}|Repository\\Repository.csproj|solutionrelative:repository\\efcore\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\requestfeatures\\bookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\bookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\requestfeatures\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\entities\\requestfeatures\\bookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885D992F-3CD8-42D4-97CF-4F8609D4B81C}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\bookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF9CF37C-B89E-4092-85C6-D93CF0AD0403}|Repository\\Repository.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\asp.netcorewebapi\\applications\\bsstoreapp\\bsstoreapp\\repository\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderQueryBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Repository\\Extensions\\OrderQueryBuilder.cs",
+              "RelativeDocumentMoniker": "Repository\\Extensions\\OrderQueryBuilder.cs",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Repository\\Extensions\\OrderQueryBuilder.cs",
+              "RelativeToolTip": "Repository\\Extensions\\OrderQueryBuilder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:22:06.141Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,14 +65,14 @@
               "RelativeDocumentMoniker": "Repository\\Extensions\\BookRepositoryExtensions.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Repository\\Extensions\\BookRepositoryExtensions.cs",
               "RelativeToolTip": "Repository\\Extensions\\BookRepositoryExtensions.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T10:31:57.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Repository\\Contracts\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Contracts\\IBookRepository.cs",
@@ -63,36 +80,38 @@
               "RelativeToolTip": "Repository\\Contracts\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:00:16.784Z"
+              "WhenOpened": "2025-05-20T10:00:16.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Repository\\EFCore\\BookRepository.cs",
               "RelativeDocumentMoniker": "Repository\\EFCore\\BookRepository.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Repository\\EFCore\\BookRepository.cs",
               "RelativeToolTip": "Repository\\EFCore\\BookRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T09:50:40.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BookManager.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\BookManager.cs",
               "RelativeDocumentMoniker": "Services\\BookManager.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Services\\BookManager.cs",
               "RelativeToolTip": "Services\\BookManager.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:46:53.34Z"
+              "WhenOpened": "2025-05-20T09:46:53.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "Entities\\Exceptions\\BadRequestException.cs",
@@ -100,17 +119,18 @@
               "RelativeToolTip": "Entities\\Exceptions\\BadRequestException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:40:51.275Z"
+              "WhenOpened": "2025-05-20T09:40:51.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookParameters.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\RequestFeatures\\BookParameters.cs",
               "RelativeDocumentMoniker": "Entities\\RequestFeatures\\BookParameters.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\RequestFeatures\\BookParameters.cs",
               "RelativeToolTip": "Entities\\RequestFeatures\\BookParameters.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T09:37:28.793Z",
               "EditorCaption": ""
@@ -123,7 +143,7 @@
               "RelativeDocumentMoniker": "Entities\\RequestFeatures\\RequestParameters.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\Asp.NetCoreWebApi\\Applications\\bsStoreApp\\bsStoreApp\\Entities\\RequestFeatures\\RequestParameters.cs",
               "RelativeToolTip": "Entities\\RequestFeatures\\RequestParameters.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T09:36:38.248Z",
               "EditorCaption": ""
