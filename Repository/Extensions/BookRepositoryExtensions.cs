@@ -14,5 +14,17 @@ namespace Repository.EFCore
             return books.Where(book => book.Price >= minPrice && book.Price <= maxPrice);
         }
 
-    }
+    
+        public static IQueryable<Book> Search(this IQueryable<Book> books,
+            string searchTerm)
+        {
+            if (string.IsNullOrWhiteSpace(searchTerm)) 
+                return books;
+            var lowerCaseTerm  = searchTerm.Trim().ToLower(); //küçük harfe duyarsız
+            return books
+                .Where(b => b.Title
+                .ToLower()
+                .Contains(searchTerm));
+        }
+     }
 }
