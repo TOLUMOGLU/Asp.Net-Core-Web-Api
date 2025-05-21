@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,10 +21,20 @@ namespace Services
         private readonly IRepositoryManager _manager;
         private readonly ILoggerService _logger;
         private readonly IMapper _mapper;
+        private readonly IDataShaper<BookDto> _shaper;
+        private IRepositoryManager repositoryManager;
 
-        public BookManager(IRepositoryManager manager, ILoggerService logger, IMapper mapper)
+        public BookManager(IRepositoryManager manager, ILoggerService logger, IMapper mapper, IDataShaper<BookDto> shaper)
         {
             _manager = manager;
+            _logger = logger;
+            _mapper = mapper;
+            _shaper = shaper;
+        }
+
+        public BookManager(IRepositoryManager repositoryManager, ILoggerService logger, IMapper mapper)
+        {
+            this.repositoryManager = repositoryManager;
             _logger = logger;
             _mapper = mapper;
         }
@@ -36,7 +47,7 @@ namespace Services
             return _mapper.Map<BookDto>(entity);
         }
 
-        public async Task<(IEnumerable<BookDto> books, MetaData metaData)> GetAllBooksAsync(BookParameters bookParameters,bool trackChanges)
+        public async Task<(IEnumerable<ExpandoObject> books, MetaData metaData)> GetAllBooksAsync(BookParameters bookParameters,bool trackChanges)
         {
 
             if (!bookParameters.ValidPriceRange) 
@@ -46,7 +57,10 @@ namespace Services
             var booksWithMetaData = await _manager.Book.GetAllBooksAsync(bookParameters, trackChanges);
 
             var booksDto = _mapper.Map<IEnumerable<BookDto>>(booksWithMetaData);
-            return (booksDto, booksWithMetaData.MetaData);
+            
+            var shapedData = _shaper.ShapeData(booksDto, bookParameters.Fields);
+
+            return (shapedData, booksWithMetaData.MetaData);
         }
 
 
